@@ -44,7 +44,7 @@ uses /etc/init.d script to load modules before boot.
 
 1. Go to your devices folder after you extract zip file and open terminal.
 
-2. Run the command su if you are Android or sudo for Linux then run this cp -r * /
+2. Run the command su if you are Android or sudo for Linux then run this cp -r * /  for Android the command is cp -r * /system
 
 3. Then run command reboot and your firmware will be loaded next boot.
 
